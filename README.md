@@ -38,6 +38,4 @@ Please drop all ideas in the [official issue tracker](https://github.com/setns/l
 
 <p align="center"><b>Brought to you by</b></p>
 
-<hr>
-
 <p align="center"><a href="https://bit.ly/2K479wO"><img src="img/SysdigLogo.png" width="360"></a></p>
