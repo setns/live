@@ -2,7 +2,7 @@
 
 <center>
 
-Securty Technologies Network from Sysdig, Inc LIVE. 
+Security Technologies Network from Sysdig, Inc LIVE. 
 
 You source for an interactive live stream focused on all things Cloud Native Security.
 
