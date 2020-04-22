@@ -1,10 +1,9 @@
-# setns.live 
+<p align="center"><img src="img/Setns.live-rgb.png" width="360"></p>
 
-<center>
 
-Security Technologies Network from Sysdig, Inc LIVE. 
+<hr>
 
-You source for an interactive live stream focused on all things Cloud Native Security.
+Your source for an interactive live stream focused on all things Cloud Native Security.
 
 </center>
 
