@@ -1,13 +1,10 @@
 <p align="center"><img src="img/Setns.live-rgb.png" width="360"></p>
 
+<p align="center"><b><a href="twitch.tv/setns">Watch Now!</a></b></p>
+
+<p align="center">Your source for an interactive live stream focused on all things Cloud Native Security.</p>
 
 <hr>
-
-Your source for an interactive live stream focused on all things Cloud Native Security.
-
-</center>
-
-<p align="center"><b><a href="twitch.tv/setns">Watch Now!</a></b></p>
 
 ### What?
 
