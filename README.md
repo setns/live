@@ -8,11 +8,11 @@ You source for an interactive live stream focused on all things Cloud Native Sec
 
 </center>
 
-<p align="center"><b><a href="https://bit.ly/2RHM4MG">Watch Now!</a></b></p>
+<p align="center"><b><a href="twitch.tv/setns">Watch Now!</a></b></p>
 
 ### What?
 
-Weekly security live streams hosted on [twitch.tv/setns](https://bit.ly/2RHM4MG).
+Weekly security live streams hosted on [twitch.tv/setns](https://twitch.tv/setns).
 
 Come join us live where we look at security in the Cloud Native ecosystem.
 
@@ -22,16 +22,16 @@ Fridays at 11am Pacific.
 
 ### Where?
 
-Join the streams live at [twitch.tv/setns](https://bit.ly/2RHM4MG).
+Join the streams live at [twitch.tv/setns](twitch.tv/setns).
 
-View the recording archives on our [YouTube channel](https://bit.ly/2Vd9prT). 
+View the recording archives on our [YouTube channel](https://www.youtube.com/playlist?list=PLrUjPk-W0ladAEX5maGkHroiJVfQCh-kj). 
 
 ### Have an idea for an episode?
 
 Please drop all ideas in the [official issue tracker](https://github.com/setns/live/issues)
 
-<p align="center"><b><a href="https://bit.ly/2RHM4MG">twitch.tv/setns</a></b></p>
-<p align="center"><a href="https://bit.ly/2K479wO"><img src="img/Twitch.png" width="360"></a></p>
+<p align="center"><b><a href="https://twitch.tv/setns">twitch.tv/setns</a></b></p>
+<p align="center"><a href="https://twitch.tv/setns"><img src="img/Twitch.png" width="360"></a></p>
 
 
 <hr>
