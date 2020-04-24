@@ -1,6 +1,6 @@
 <p align="center"><img src="img/Setns.live-rgb.png" width="360"></p>
 
-<p align="center"><b><a href="twitch.tv/setns">Watch Now!</a></b></p>
+<p align="center"><b><a href="https://twitch.tv/setns">Watch Now!</a></b></p>
 
 <p align="center">Your source for an interactive live stream focused on all things Cloud Native Security.</p>
 
@@ -18,7 +18,7 @@ Fridays at 11am Pacific.
 
 ### Where?
 
-Join the streams live at [twitch.tv/setns](twitch.tv/setns).
+Join the streams live at [twitch.tv/setns](https://twitch.tv/setns).
 
 View the recording archives on our [YouTube channel](https://www.youtube.com/playlist?list=PLrUjPk-W0ladAEX5maGkHroiJVfQCh-kj). 
 
