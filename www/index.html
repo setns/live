@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>Setns.Live - Sponsored by Sysdig</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom fonts for this template -->
+  <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
+  <link href="vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+
+  <!-- Custom styles for this template -->
+  <link href="css/setns-live-min.css" rel="stylesheet">
+
+	<script type="text/javascript">
+		(function(j,u,k,e,b,o,x){j[b]=j[b]||function(){
+		(j[b].q=j[b].q||[]).push(arguments)},j[b].l=1*new Date();o=u.createElement(k),
+		x=u.getElementsByTagName(k)[0];o.async=1;o.src=e;x.parentNode.insertBefore(o,x)
+		})(window,document,'script','https://app.cdn.lookbookhq.com/production/jukebox/current/jukebox.js','lbhq');
+		  lbhq('create', 'LB-727F1CFC-10479');
+	</script>
+
+</head>
+
+<body>
+
+  <!-- Navigation -->
+  <nav class="navbar navbar-light bg-light fixed-top" id="mainNav">
+    <div class="container">
+		<img src="/img/setns.live-rgb.png" height="40px">
+		<div id="navbarResponsive">
+			<ul class="navbar-nav text-uppercase ml-auto">
+				<li class="nav-item"><a class="nav-link" target="_blank" href="https://www.twitch.tv/setns">Join</a></li>
+				<li class="nav-item"><a class="nav-link" target="_blank" href="https://www.youtube.com/playlist?list=PLrUjPk-W0ladAEX5maGkHroiJVfQCh-kj">Archive</a></li>
+				<li class="nav-item"><a class="nav-link" target="_blank" href="https://github.com/setns/live">Contribute</a></li>
+				<li class="nav-item"><a class="nav-link" href="#about">About</a></li>
+			</ul>
+        </div>
+    </div>
+  </nav>
+
+  <!-- Masthead -->
+  <header class="masthead text-black text-left mb-5" style="background-image: url(https://sysdig.com/wp-content/themes/sysdig/assets/images/patterns/pill-hero-dkblue-3.svg)">
+    <div class="container">
+      <div class="row">
+		<div style="width:55%;padding-right: 5%;">
+        <h1>Welcome to Setns.live!</h1>
+		<p class="lead mb-0">Cloud native security is a hot topic!  Join our community-driven network live or watch the recording on YouTube. Join the slack discussion to suggest topics and guests here.</p>
+		</div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Custom section for Twitch.tv embed -->
+  <section class="text-center mb-5">
+    <div class="container">
+      <div class="row">
+		<h2>Watch Now!</h2>
+	  </div>
+      <div class="row">
+    <!-- Add a placeholder for the Twitch embed -->
+    <div id="twitch-embed"></div>
+
+    <!-- Load the Twitch embed script -->
+    <script src="https://embed.twitch.tv/embed/v1.js"></script>
+
+    <!-- Create a Twitch.Embed object that will render within the "twitch-embed" root element. -->
+    <script type="text/javascript">
+      new Twitch.Embed("twitch-embed", {
+        width: 854,
+        height: 480,
+        channel: "setns"
+      });
+    </script>
+	  </div>
+	</div>
+  </section>
+
+  <!-- Custom section for Google Calendar embed -->
+  <section class="text-center mb-5">
+    <div class="container">
+      <div class="row">
+		<h2>Calendar of Events</h2>
+	  </div>
+      <div class="row">
+	      <iframe src="https://calendar.google.com/calendar/embed?src=gdd8tqo1o8k4het61rq8tlsr5cnoj91n%40import.calendar.google.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+	  </div>
+	</div>
+  </section>
+
+  <!-- About Us section -->
+  <section class="text-center pb-5" id="about">
+    <div class="container">
+      <div class="row">
+        <div class="text-left">
+		<h3>About Setns.live</h3>
+		<p class="lead mb-0">This community-driven network was created as a forum for cloud native security discussions.  Hosted by Kris Nova, and sponsored by Sysdig, we will bring a range of content including presentations, interviews, demos, and reviews of cloud-native tools. Anything cloud-native is fair game.</p>
+		</div>
+	  </div>
+	</div>
+  </section>
+
+  <!-- You May Be Interested In section -->
+  <section class="text-center pb-5" id="about">
+    <div class="container">
+      <div class="row">
+        <div class="text-left">
+		<h3>You May Be Interested In</h3>
+		<p class="lead mb-0"><a href="https://sysdig.com/company/live-webinars/" target="_blank">Sysdig Live Webinars</a></p>
+		<p class="lead mb-0"><a href="https://sysdig.com/resources/webinars/" target="_blank">Sysdig On-Demand Webinars</a></p>
+		<p class="lead mb-0"><a href="https://sysdig.com/blog/" target="_blank">Sysdig Blogs</a></p>
+		</div>
+	  </div>
+	</div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer bg-light">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-6 h-100 text-center text-lg-left my-auto"><!--
+          <ul class="list-inline mb-2">
+            <li class="list-inline-item">
+              <a href="#">About</a>
+            </li>
+            <li class="list-inline-item">&sdot;</li>
+            <li class="list-inline-item">
+              <a href="#">Contact</a>
+            </li>
+            <li class="list-inline-item">&sdot;</li>
+            <li class="list-inline-item">
+              <a href="#">Terms of Use</a>
+            </li>
+            <li class="list-inline-item">&sdot;</li>
+            <li class="list-inline-item">
+              <a href="#">Privacy Policy</a>
+            </li>
+          </ul>-->
+          <p class="text-muted small mb-4 mb-lg-0">&copy; Sysdig 2020. All Rights Reserved.</p>
+        </div>
+        <div class="col-lg-6 h-100 text-center text-lg-right my-auto"><!--
+          <ul class="list-inline mb-0">
+            <li class="list-inline-item mr-3">
+              <a href="#">
+                <i class="fab fa-facebook fa-2x fa-fw"></i>
+              </a>
+            </li>
+            <li class="list-inline-item mr-3">
+              <a href="#">
+                <i class="fab fa-twitter-square fa-2x fa-fw"></i>
+              </a>
+            </li>
+            <li class="list-inline-item">
+              <a href="#">
+                <i class="fab fa-instagram fa-2x fa-fw"></i>
+              </a>
+            </li>
+          </ul>-->
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+</body>
+
+</html>
