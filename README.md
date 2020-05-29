@@ -2,15 +2,15 @@
 
 <p align="center"><b><a href="https://twitch.tv/setns">Watch Now!</a></b></p>
 
-<p align="center">Your source for an interactive live stream focused on all things Cloud Native Security.</p>
+<p align="center">This community-driven network was created as a forum for cloud native security and monitoring discussions.  Sponsored by Sysdig, we will bring a range of content including presentations, interviews, demos, and reviews of cloud-native tools. Anything cloud-native is fair game.</p>
 
 <hr>
 
 ### What?
 
-Weekly security live streams hosted on [twitch.tv/setns](https://twitch.tv/setns).
+Weekly secure DevOps live streams hosted on [twitch.tv/setns](https://twitch.tv/setns).
 
-Come join us live where we look at security in the Cloud Native ecosystem.
+Come join us live where we look at security and monitoring in the Cloud Native ecosystem.
 
 ### When?
 
